@@ -1,0 +1,6 @@
+{
+  "min_size": 2,
+  "max_size": 4,
+  "characters": [" AA ", " BB ", " CC ", " DD ", " EE ", " FF ", " GG ", " HH "],
+  "language": "de"
+}
